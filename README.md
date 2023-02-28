@@ -19,7 +19,7 @@ Currently the programming languages and frameworks I take a lot of intrest in ar
 
 ### You can reach me on:
 * [Twitter (@usernameisleye)](https://twitter.com/usernameisleye)
-* [Gmail (adeleyeadesida@gmail.com)](adeleyeadesida@gmail.com)
+* [Gmail (adeleyeadesida@gmail.com)](https://mail.google.com/mail/)
 * [Linkedin](http://linkedin.com/in/adeleye-adesida-975b27262)
 
 ## Thanks for visiting my profile!🧘🏾‍♂️
