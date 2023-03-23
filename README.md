@@ -1,4 +1,4 @@
-### Hi 👽, My name is [Leye](https://twitter.com/usernameisleye).
+### Greetings 👽, My name is [Leye](https://twitter.com/usernameisleye).
 I am a Full Stack Developer...though I pay a little more attention to Front End haha. My goal as Full Stack Developer is to bring something fascinatedly new to the tech space.
 
 I was most recently a Junior Full Stack Developer at [Catalyst Business Consult](https://catalystbusinessconsult.com/). 
