@@ -4,7 +4,7 @@ I am a Full Stack Developer...though I pay a little more attention to Front End 
 I was most recently a Junior Full Stack Developer at [Catalyst Business Consult](https://catalystbusinessconsult.com/). 
 
 ### About Me?!
-* I am currently learning ExpressJS, React and SASS.
+* I am currently learning JWT, React Context and SASS.
 * I like watching Animes and reading Manga📚!
 * I am currently looking for internships to improve my experience and skill as a Developer.
 
