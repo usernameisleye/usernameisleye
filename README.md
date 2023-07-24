@@ -1,39 +1,19 @@
-### Greetings 👽, My name is [Leye](https://twitter.com/usernameisleye).
-I am a Full Stack Developer...though I pay a little more attention to Front End haha. My goal as Full Stack Developer is to bring something fascinatedly new to the tech space.
+Hi there, I'm Adesida Leye! A full stack developer with a growing interest in various technologies. I've been in the tech space for almost a year, learnig new things and connecting with other developers. Currently, I am building personal and open source projects to imporove my skills as a developer
 
-I was most recently a Junior Full Stack Developer at [Catalyst Business Consult](https://catalystbusinessconsult.com/). 
+Recently I had the pleasure to learn and work as a junior developer at Catalyst Business Consult, and currently I am building a number of projects at Circle Dodge Systems in collaboration with other devlopers.
 
-### About Me?!
-* I am currently learning what I can...
-* I like watching Animes and reading Manga📚!
-* I am currently looking for internships to improve my experience and skill as a Developer
+Apart from coding, I also take interest in animes, reading mangas, language acquisition(Français and 日本) et cetera. And when I not doing that, I'm learning, building and contribution as a developer.
 
-Fun fact about me is that I HATE when devices overcharge!
+Feel free to connect with me on [LinkedIn](http://linkedin.com/in/adeleye-adesida-975b27262) or [Twitter](https://twitter.com/usernameisleye). Or you can check out my repos here on GitHub to learn more about my work and thoughts. Looking forward to connecting with you!👍🏾
 
-### Programming Languages and Frameworks I Like
-Currently the programming languages and frameworks I take a lot of intrest in are;
+### Watashi wa imanani o shite iru nodesu ka?🤷🏾‍♂️
+* Learning [Svelte](https://svelte.dev/)
+* Building [chattt](https://github.com/usernameisleye/chattt)
+* Building at [Edge Innovative Tech](https://github.com/Edge-Innovative-Tech)
 
-* TypeScript & Svelte
-* SASS...etc
+### Reach me⚡
+* via [Linkedin](http://linkedin.com/in/adeleye-adesida-975b27262)
+* Twitter([usernameisleye](https://twitter.com/usernameisleye))
+* Email(adeleyeadesida@gmail.com)
 
-### You can reach me on:
-* [Twitter](https://twitter.com/usernameisleye)
-* [Gmail](https://mail.google.com/mail/)
-* [Linkedin](http://linkedin.com/in/adeleye-adesida-975b27262)
-
-## Thanks for visiting my profile, Mata nā!🧘🏾‍♂️
-
-<!--
-**usernameisleye/usernameisleye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mata nā!👽
