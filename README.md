@@ -1,6 +1,6 @@
 Hi there, I'm Adesida Leye! A full stack developer with a growing interest in various technologies. I've been in the tech space for almost a year, learnig new things and connecting with other developers. Currently, I am building personal and open source projects to imporove my skills as a developer
 
-Recently I had the pleasure to learn and work as a junior developer at Catalyst Business Consult, and currently I am building a number of projects at Circle Dodge Systems in collaboration with other devlopers.
+Recently I had the pleasure to learn and work as a junior developer at Catalyst Business Consult, and currently I am building a number of projects at Circle Dodge Systems and Edge Innovative Tech in collaboration with other devlopers.
 
 Apart from coding, I also take interest in animes, reading mangas, language acquisition(Français and 日本) et cetera. And when I not doing that, I'm learning, building and contribution as a developer.
 
