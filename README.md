@@ -8,7 +8,7 @@ Feel free to connect with me on [LinkedIn](http://linkedin.com/in/adeleye-adesid
 
 ### Watashi wa imanani o shite iru nodesu ka?🤷🏾‍♂️
 * Learning [Svelte](https://svelte.dev/)
-* Building [terra](https://github.com/usernameisleye/terra)
+* Building [invert](https://github.com/usernameisleye/invert)
 * Building at [Edge Innovative Tech](https://github.com/Edge-Innovative-Tech)
 
 ### Reach me⚡
